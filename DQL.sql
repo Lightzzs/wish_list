@@ -1,0 +1,3 @@
+USE WISHLIST;
+
+SELECT * FROM Desejos;
